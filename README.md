@@ -1,4 +1,4 @@
-# proyect_01
+# proyect_01_Modelo-de-Regresion-para-la-Recuperacion-de-Oro
 Mi tarea es preparar un prototipo de un modelo de machine learning para Zyfra. Esta es una empresa que desarrolla soluciones de eficiencia para la industria pesada.
 
 El modelo que desarrolle debe predecir la cantidad de oro extraído del mineral de oro. Para este proyecto, dispongo de los datos de extracción y purificación.
